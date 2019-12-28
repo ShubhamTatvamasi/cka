@@ -1,5 +1,13 @@
 # cka
 
+Links which can be used during CKA Exam:
+
+https://kubernetes.io/docs/home/
+
+https://kubernetes.io/blog/
+
+---
+
 Certified Kubernetes Administrator: https://www.cncf.io/certification/cka/
 
 Exam Curriculum (Topics): https://github.com/cncf/curriculum
