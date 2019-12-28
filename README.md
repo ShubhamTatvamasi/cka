@@ -2,9 +2,9 @@
 
 ### Links which can be used during CKA Exam:
 
-Kubernetes Docs https://kubernetes.io/docs/
+Kubernetes Docs: https://kubernetes.io/docs/
 
-Kubernetes Blog https://kubernetes.io/blog/
+Kubernetes Blog: https://kubernetes.io/blog/
 
 ---
 
