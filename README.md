@@ -16,6 +16,8 @@ Candidate Handbook: https://www.cncf.io/certification/candidate-handbook
 
 Exam Tips: http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
 
+Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernetes-the-hard-way
+
 
 ```bash
 alias kc='kubectl'
