@@ -21,6 +21,7 @@ Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernet
 
 ```bash
 alias kc='kubectl'
+alias kga='kubectl get all'
 alias kgp='kubectl get pods'
 alias kgs='kubectl get svc'
 alias kgc='kubectl get componentstatuses'
