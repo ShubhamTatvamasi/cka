@@ -26,6 +26,8 @@ Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernet
 
 ### Important links
 
+[The Kubernetes Learning Resources List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/view)
+
 Certified Kubernetes Administrator: https://www.cncf.io/certification/cka/
 
 Exam Curriculum (Topics): https://github.com/cncf/curriculum
