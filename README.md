@@ -18,9 +18,9 @@ Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernet
 
 ### Books to Read:
 
-- Kubernetes: Up and Running, 2nd Edition
+- Kubernetes: Up and Running, by Brendan Burns, Joe Beda, and Kelsey Hightower
 
-- Kubernetes in Action
+- Kubernetes in Action, by Marko Luksa
 
 ---
 
