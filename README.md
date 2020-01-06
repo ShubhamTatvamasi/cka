@@ -14,6 +14,8 @@ Kubernetes practice tasks https://www.katacoda.com/courses/kubernetes
 
 Kubernetes Tasks https://kubernetes.io/docs/tasks/
 
+practice environment similar to the actual exam https://github.com/arush-sal/cka-practice-environment
+
 ---
 
 ### Books to Read:
