@@ -8,11 +8,11 @@ Kubernetes Blog: https://kubernetes.io/blog/
 
 ---
 
-### To Do:
+### CKA Practice Labs & Tasks:
+
+Kubernetes practice tasks https://www.katacoda.com/courses/kubernetes
 
 Kubernetes Tasks https://kubernetes.io/docs/tasks/
-
-Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ---
 
@@ -21,6 +21,8 @@ Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernet
 - Kubernetes: Up and Running, by Brendan Burns, Joe Beda, and Kelsey Hightower
 
 - Kubernetes in Action, by Marko Luksa
+
+- Kubernetes The Hard Way (MUST READ): https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ---
 
