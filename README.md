@@ -44,12 +44,17 @@ Exam Tips: http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
 
 alias for doing things quickly
 ```bash
-alias kc='kubectl'
-alias kga='kubectl get all'
-alias kgp='kubectl get pods'
-alias kgs='kubectl get svc'
-alias kgc='kubectl get componentstatuses'
-alias kctx='kubectl config current-context'
-alias kcon='kubectl config use-context'
-alias kgc='kubectl config get-context'
+alias k='kubectl'
+
+alias kga='k get all'
+alias kgd='k get deploy'
+alias kgp='k get pods'
+alias kgn='k get nodes'
+alias kgs='k get svc'
+
+alias kgc='k get componentstatuses'
+
+alias kccc='k config current-context'
+alias kcuc='k config use-context'
+alias kcgc='k config get-context'
 ```
