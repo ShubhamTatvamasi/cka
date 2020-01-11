@@ -47,13 +47,17 @@ alias for doing things quickly
 alias k='kubectl'
 
 alias ke='k edit'
+alias kep='k edit pod'
+alias kes='k edit svc'
+alias ked='k edit deploy'
+
 alias kd='k delete'
+
 alias kga='k get all'
 alias kgs='k get svc'
 alias kgp='k get pods'
 alias kgn='k get nodes'
 alias kgd='k get deploy'
-
 alias kgc='k get componentstatuses'
 
 alias kcgc='k config get-context'
