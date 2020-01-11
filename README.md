@@ -47,13 +47,11 @@ alias for doing things quickly
 alias k='kubectl'
 
 alias ke='k edit'
-alias kep='k edit pod'
-alias kes='k edit svc'
-alias ked='k edit deploy'
 
 alias kd='k describe'
 alias kdl='k delete'
 
+alias kg='k get'
 alias kga='k get all'
 alias kgs='k get svc'
 alias kgp='k get pods'
