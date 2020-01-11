@@ -52,7 +52,7 @@ alias kes='k edit svc'
 alias ked='k edit deploy'
 
 alias kd='k describe'
-alias kde='k delete'
+alias kdl='k delete'
 
 alias kga='k get all'
 alias kgs='k get svc'
