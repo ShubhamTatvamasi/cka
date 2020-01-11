@@ -51,7 +51,7 @@ alias kep='k edit pod'
 alias kes='k edit svc'
 alias ked='k edit deploy'
 
-alias kd='k delete'
+alias kd='k describe'
 
 alias kga='k get all'
 alias kgs='k get svc'
