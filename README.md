@@ -50,8 +50,8 @@ alias ke='k edit'
 
 alias kd='k describe'
 
-alias krm='kubectl delete'
-alias krmf='kubectl delete -f'
+alias kdl='kubectl delete'
+alias kdlf='kubectl delete -f'
 
 alias kg='k get'
 alias kga='k get all'
