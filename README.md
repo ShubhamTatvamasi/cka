@@ -18,6 +18,12 @@ practice environment similar to the actual exam https://github.com/arush-sal/cka
 
 ---
 
+### Kubernetes Playground:
+
+https://www.katacoda.com/courses/kubernetes/playground
+
+---
+
 ### Books to Read:
 
 - Kubernetes: Up and Running, by Brendan Burns, Joe Beda, and Kelsey Hightower
