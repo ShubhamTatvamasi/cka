@@ -67,7 +67,7 @@ alias kgn='k get nodes'
 alias kgd='k get deploy'
 alias kgc='k get componentstatuses'
 
-alias kcgc='k config get-context'
+alias kcgc='k config get-contexts'
 alias kcuc='k config use-context'
 alias kccc='k config current-context'
 ```
