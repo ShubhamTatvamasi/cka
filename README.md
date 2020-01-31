@@ -111,3 +111,5 @@ Deployment (deprecated)	| apps/v1beta1	| kubectl run --generator=deployment/apps
 Job (deprecated)	| batch/v1	| kubectl run --generator=job/v1
 CronJob (deprecated)	| batch/v2alpha1	| kubectl run --generator=cronjob/v2alpha1
 CronJob (deprecated)	| batch/v1beta1	| kubectl run --generator=cronjob/v1beta1
+
+Reference: https://kubernetes.io/docs/reference/kubectl/conventions/
