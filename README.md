@@ -100,7 +100,7 @@ kubectl run "deployment_name" --image=nginx -o yaml --dry-run > save_to_deployme
 ```
 ---
 
-### Generators
+### Generators v1.17
 
 Resource | API group | kubectl command
 --- | --- | ---
