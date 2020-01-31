@@ -96,5 +96,5 @@ kubectl run "pod_name" --image=nginx -o yaml --dry-run --generator=run-pod/v1 > 
 
 #### kubectl command (create a Deployment YAML spec)
 ```bash
-kubectl run "deployment_name" --image=nginx -o yaml --dr
+kubectl run "deployment_name" --image=nginx -o yaml --dry-run > save_to_deployment_file.yml
 ```
