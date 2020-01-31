@@ -71,3 +71,30 @@ alias kcg='k config get-contexts'
 alias kcu='k config use-context'
 alias kcc='k config current-context'
 ```
+---
+
+### Pro Tips (things to know before exam)
+
+#### OpenSSL
+
+comfortable generating certificates (.key, .crt, .csr, x509)
+
+#### systemctl
+
+managing services (status/start/stop/restart/enable/reload)
+
+working with unit files (cat/show/edit)
+
+#### journalctl
+
+view logs for service (journalctl -u kubelet)
+
+#### kubectl command (create a Pod YAML spec)
+```bash
+kubectl run "pod_name" --image=nginx -o yaml --dry-run --generator=run-pod/v1 > save_to_pod_file.yml
+```
+
+#### kubectl command (create a Deployment YAML spec)
+```bash
+kubectl run "deployment_name" --image=nginx -o yaml --dr
+```
