@@ -25,6 +25,7 @@ CKA + CKAD Candidate Handbook | https://training.linuxfoundation.org/go/cka-ckad
 CKA + CKAD Exam Tips | http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
 CKA + CKAD FAQ | http://training.linuxfoundation.org/go/cka-ckad-faq
 
+Ref: https://training.linuxfoundation.org/cncf-certification-candidate-resources/
 
 ---
 
