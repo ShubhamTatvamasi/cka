@@ -20,7 +20,7 @@ practice environment similar to the actual exam https://github.com/arush-sal/cka
 ### CKA Certification Exam Candidate Resources
 
 Resource | Link
-| --- | --- |
+--- | ---
 CKA + CKAD Candidate Handbook | https://training.linuxfoundation.org/go/cka-ckad-candidate-handbook
 CKA + CKAD Exam Tips | http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
 CKA + CKAD FAQ | http://training.linuxfoundation.org/go/cka-ckad-faq
