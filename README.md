@@ -1,5 +1,7 @@
 # cka
 
+Be ready with an ID at the time of exam
+
 ### Links which can be used during CKA Exam:
 
 Resource | Link
