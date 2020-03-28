@@ -1,6 +1,10 @@
 # cka
 
-Be ready with an ID at the time of exam
+Be ready with 2 IDs at the time of exam
+
+1. Passport
+1. Debit card
+
 
 ### Links which can be used during CKA Exam:
 
