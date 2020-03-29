@@ -49,7 +49,7 @@ Books | Link
 --- | ---
 Kubernetes: Up and Running | https://azure.microsoft.com/en-in/resources/kubernetes-up-and-running
 Managing Kubernetes | https://pages.cloud.vmware.com/managing-kubernetes-ebook
-Kubernetes in Action |
+Kubernetes in Action | https://www.yunforum.net/pdf/kubernetes-in-action.pdf
 Kubernetes The Hard Way (MUST READ) | https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ---
