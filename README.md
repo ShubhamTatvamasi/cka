@@ -37,9 +37,9 @@ Ref: https://training.linuxfoundation.org/cncf-certification-candidate-resources
 
 ---
 
-### Kubernetes Playground:
+### Certified Kubernetes Administrator (CKA) Exam Curriculum:
 
-https://www.katacoda.com/courses/kubernetes/playground
+https://github.com/cncf/curriculum
 
 ---
 
@@ -60,8 +60,6 @@ https://www.katacoda.com/courses/kubernetes/playground
 Certified Kubernetes Administrator: https://www.cncf.io/certification/cka/
 
 Exam Curriculum (Topics): https://github.com/cncf/curriculum
-
-Candidate Handbook: https://www.cncf.io/certification/candidate-handbook
 
 Exam Tips: http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
 
