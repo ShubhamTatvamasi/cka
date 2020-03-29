@@ -16,7 +16,7 @@ Kubernetes Blog | https://kubernetes.io/blog/
 
 ---
 
-### CKA Certification Exam Candidate Resources
+### CKA Certification Exam Candidate Resources:
 
 Resource | Link
 --- | ---
@@ -45,7 +45,7 @@ Kubernetes The Hard Way (MUST READ) | https://github.com/kelseyhightower/kuberne
 
 ---
 
-### Do Tasks & Concepts :
+### Do Tasks & Concepts:
 
 Resource | Link
 --- | ---
@@ -54,15 +54,12 @@ Kubernetes Concepts | https://kubernetes.io/docs/concepts/
 
 ---
 
-### Important links
+### Online Resources:
 
-[The Kubernetes Learning Resources List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/view)
+Resource | Link
+--- | ---
+The Kubernetes Learning Resources List | https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/view
 
-Certified Kubernetes Administrator: https://www.cncf.io/certification/cka/
-
-Exam Curriculum (Topics): https://github.com/cncf/curriculum
-
-Exam Tips: http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
 
 ---
 
