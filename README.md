@@ -16,15 +16,6 @@ Kubernetes Blog | https://kubernetes.io/blog/
 
 ---
 
-### CKA Practice Labs & Tasks:
-
-Kubernetes practice tasks https://www.katacoda.com/courses/kubernetes
-
-Kubernetes Tasks https://kubernetes.io/docs/tasks/
-
-practice environment similar to the actual exam https://github.com/arush-sal/cka-practice-environment
-
-
 ### CKA Certification Exam Candidate Resources
 
 Resource | Link
@@ -39,7 +30,7 @@ Ref: https://training.linuxfoundation.org/cncf-certification-candidate-resources
 
 ### Certified Kubernetes Administrator (CKA) Exam Curriculum:
 
-https://github.com/cncf/curriculum
+### https://github.com/cncf/curriculum
 
 ---
 
@@ -51,6 +42,15 @@ Kubernetes: Up and Running | https://azure.microsoft.com/en-in/resources/kuberne
 Managing Kubernetes | https://pages.cloud.vmware.com/managing-kubernetes-ebook
 Kubernetes in Action | https://www.yunforum.net/pdf/kubernetes-in-action.pdf
 Kubernetes The Hard Way (MUST READ) | https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+---
+
+### Do Tasks & Concepts :
+
+Resource | Link
+--- | ---
+Kubernetes Tasks | https://kubernetes.io/docs/tasks/
+Kubernetes Concepts | https://kubernetes.io/docs/concepts/
 
 ---
 
