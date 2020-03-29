@@ -47,7 +47,7 @@ Kubernetes The Hard Way (MUST READ) | https://github.com/kelseyhightower/kuberne
 
 ---
 
-### Do Tasks & Concepts:
+### Practice all Tasks & understand all Concepts:
 
 Resource | Link
 --- | ---
