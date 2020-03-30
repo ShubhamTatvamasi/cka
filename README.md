@@ -69,26 +69,32 @@ The Kubernetes Learning Resources List | https://docs.google.com/spreadsheets/d/
 
 alias for doing things quickly
 ```bash
+cat << EOF >> .bashrc
 alias k='kubectl'
 
 alias ke='k edit'
 
 alias kd='k describe'
 
-alias kdl='kubectl delete'
-alias kdlf='kubectl delete -f'
+alias ka='k apply'
+alias kaf='ka -f'
+
+alias kdl='k delete'
+alias kdlf='kdl -f'
 
 alias kg='k get'
-alias kga='k get all'
-alias kgs='k get svc'
-alias kgp='k get pods'
-alias kgn='k get nodes'
-alias kgd='k get deploy'
-alias kgc='k get componentstatuses'
+alias kga='kg all'
+alias kgs='kg svc'
+alias kgp='kg pods'
+alias kgn='kg nodes'
+alias kgd='kg deploy'
+alias kgc='kg componentstatuses'
 
-alias kcg='k config get-contexts'
-alias kcu='k config use-context'
-alias kcc='k config current-context'
+alias kc='k config'
+alias kcg='kc get-contexts'
+alias kcu='kc use-context'
+alias kcc='kc current-context'
+EOF
 ```
 ---
 
