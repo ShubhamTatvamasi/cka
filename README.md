@@ -70,6 +70,7 @@ The Kubernetes Learning Resources List | https://docs.google.com/spreadsheets/d/
 alias for doing things quickly
 ```bash
 cat << EOF >> .bashrc
+########## Kubernetes alias ##########
 alias k='kubectl'
 
 alias ke='k edit'
@@ -94,6 +95,7 @@ alias kc='k config'
 alias kcg='kc get-contexts'
 alias kcu='kc use-context'
 alias kcc='kc current-context'
+########## Kubernetes alias - end ##########
 EOF
 ```
 ---
