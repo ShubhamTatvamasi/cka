@@ -8,6 +8,8 @@ Be ready with 2 IDs at the time of exam
 
 You are allowed only transparent drinks with transparent bottle during the exam.
 
+Get comfortable using **vim** and **tmux** for exam, as you will only have one terminal.
+
 ### Links which can be used during CKA Exam:
 
 Resource | Link
