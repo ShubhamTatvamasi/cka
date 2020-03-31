@@ -114,7 +114,10 @@ working with unit files (cat/show/edit)
 
 #### journalctl
 
-view logs for service (journalctl -u kubelet)
+view logs for service
+```bash
+journalctl -u kubelet
+```
 
 #### kubectl command (create a Pod YAML spec)
 ```bash
