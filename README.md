@@ -135,3 +135,5 @@ kubectl run "deployment_name" --image=nginx -o yaml --dry-run > save_to_deployme
 Resource | Link
 --- | ---
 Conventions | https://kubernetes.io/docs/reference/kubectl/conventions/
+Cheat Sheet | https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
