@@ -10,6 +10,9 @@ You are allowed only transparent drinks with transparent bottle during the exam.
 
 Get comfortable using **vim** and **tmux** for exam, as you will only have one terminal.
 
+**Multiple monitors usage is also allowed** — use one for k8s docs on 1 monitor and exam on the other monitor. ( you will be asked to share both screens ).
+
+
 ### Links which can be used during CKA Exam:
 
 Resource | Link
