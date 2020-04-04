@@ -35,6 +35,21 @@ Ref: https://training.linuxfoundation.org/cncf-certification-candidate-resources
 
 ---
 
+### CKA CLUSTERS
+
+Cluster | Members | CNI | Description
+--- | --- | --- | ---
+k8s | 1 master, 2 worker | flannel | k8s cluster
+hk8s | 1 master, 2 worker | calico | k8s cluster
+bk8s | 1 master, 1 worker | flannel | k8s cluster
+wk8s | 1 master, 2 worker | flannel | k8s cluster
+ek8s | 1 master, 2 worker | flannel | k8s cluster
+ik8s | 1 master, 1 base node | loopback | k8s cluster − missing worker node
+
+> At the start of each task you'll be provided with the command to ensure you are on the correct cluster to complete the task.
+
+---
+
 ### Certified Kubernetes Administrator (CKA) Exam Curriculum:
 
 ### https://github.com/cncf/curriculum
