@@ -155,4 +155,4 @@ Resource | Link
 Conventions | https://kubernetes.io/docs/reference/kubectl/conventions/
 Cheat Sheet | https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 Upgrading kubeadm clusters | https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/
-
+LimitRange | https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace/
