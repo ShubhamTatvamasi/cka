@@ -81,7 +81,7 @@ Kubernetes Concepts | https://kubernetes.io/docs/concepts/
 Resource | Link
 --- | ---
 The Kubernetes Learning Resources List | https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/view
-
+CKA-Prep-List | https://docs.google.com/spreadsheets/d/1mYzfkxu1Iaup3KgO7zhbz7C4nFadSEvogo-lDaFIXK0/view
 
 ---
 
