@@ -146,13 +146,4 @@ kubectl run "pod_name" --image=nginx -o yaml --dry-run --generator=run-pod/v1 > 
 ```bash
 kubectl run "deployment_name" --image=nginx -o yaml --dry-run > save_to_deployment_file.yml
 ```
----
 
-### Bookmarks for exam
-
-Resource | Link
---- | ---
-Conventions | https://kubernetes.io/docs/reference/kubectl/conventions/
-Cheat Sheet | https://kubernetes.io/docs/reference/kubectl/cheatsheet/
-Upgrading kubeadm clusters | https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/
-LimitRange | https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace/
