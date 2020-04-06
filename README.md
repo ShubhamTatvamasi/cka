@@ -87,8 +87,6 @@ CKA-Prep-List | https://docs.google.com/spreadsheets/d/1mYzfkxu1Iaup3KgO7zhbz7C4
 
 alias for doing things quickly
 ```bash
-cat << EOF >> .bashrc
-########## Kubernetes alias - start ##########
 alias k='kubectl'
 
 alias ke='k edit'
@@ -113,8 +111,6 @@ alias kc='k config'
 alias kcg='kc get-contexts'
 alias kcu='kc use-context'
 alias kcc='kc current-context'
-########## Kubernetes alias - end ##########
-EOF
 ```
 ---
 
