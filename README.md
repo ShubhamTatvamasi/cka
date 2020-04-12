@@ -1,5 +1,8 @@
 # cka
 
+![Certified Kubernetes Administrator (CKA)](./certificate.jpg "CKA")
+![Badge](./logo_cka.png "Badge")
+
 Be ready with 2 IDs at the time of exam
 
 1. Passport
