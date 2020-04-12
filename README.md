@@ -1,7 +1,7 @@
 # cka
 
 ![Certified Kubernetes Administrator (CKA)](./certificate.jpg "Certified Kubernetes Administrator (CKA)")
-![Badge](./logo_cka.png "Badge")
+![Certified Kubernetes Administrator (CKA) Badge](./logo_cka.png "Certified Kubernetes Administrator (CKA) Badge")
 
 Be ready with 2 IDs at the time of exam
 
