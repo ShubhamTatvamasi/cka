@@ -1,5 +1,4 @@
 ![Certified Kubernetes Administrator (CKA)](./certificate.jpg "Certified Kubernetes Administrator (CKA)")
-![Certified Kubernetes Administrator (CKA) Badge](./logo_cka.png "Certified Kubernetes Administrator (CKA) Badge")
 
 ---
 
