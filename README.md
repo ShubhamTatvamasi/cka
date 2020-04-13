@@ -6,8 +6,6 @@
 Be ready with 2 IDs at the time of exam
 
 1. Passport
-1. Debit card
-> Second ID is only needed if your name is not in english on your first ID.
 
 You are allowed only transparent drinks with transparent bottle during the exam.
 
