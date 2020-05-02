@@ -134,14 +134,3 @@ view logs for service
 ```bash
 journalctl -u kubelet
 ```
-
-#### kubectl command (create a Pod YAML spec)
-```bash
-kubectl run "pod_name" --image=nginx -o yaml --dry-run --generator=run-pod/v1 > save_to_pod_file.yml
-```
-
-#### kubectl command (create a Deployment YAML spec)
-```bash
-kubectl run "deployment_name" --image=nginx -o yaml --dry-run > save_to_deployment_file.yml
-```
-
