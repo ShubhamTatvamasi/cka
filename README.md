@@ -113,6 +113,9 @@ alias kc='k config'
 alias kcg='kc get-contexts'
 alias kcu='kc use-context'
 alias kcc='kc current-context'
+
+alias kx='kubectx'
+alias kn='kubens'
 ```
 ---
 
