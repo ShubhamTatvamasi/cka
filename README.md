@@ -4,6 +4,44 @@
 
 # cka
 
+alias for doing things quickly
+```bash
+alias k='kubectl'
+
+alias ke='k edit'
+
+alias kd='k describe'
+
+alias ka='k apply'
+alias kaf='ka -f'
+
+alias kdl='k delete'
+alias kdlf='kdl -f'
+
+alias kg='k get'
+alias kgr='kg rs'
+alias kga='kg all'
+alias kgs='kg svc'
+alias kgp='kg pods'
+alias kgn='kg nodes'
+alias kgd='kg deploy'
+alias kgi='kg ingress'
+alias kgc='kg componentstatuses'
+
+alias kc='k config'
+alias kcg='kc get-contexts'
+alias kcu='kc use-context'
+alias kcc='kc current-context'
+
+alias kx='kubectx'
+alias kn='kubens'
+
+source <(kubectl completion zsh)
+complete -F __start_kubectl k
+```
+---
+
+
 Be ready with 2 IDs at the time of exam
 
 1. Passport
@@ -85,38 +123,6 @@ Resource | Link
 The Kubernetes Learning Resources List | https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/view
 CKA-Prep-List | https://docs.google.com/spreadsheets/d/1mYzfkxu1Iaup3KgO7zhbz7C4nFadSEvogo-lDaFIXK0/view
 
----
-
-alias for doing things quickly
-```bash
-alias k='kubectl'
-
-alias ke='k edit'
-
-alias kd='k describe'
-
-alias ka='k apply'
-alias kaf='ka -f'
-
-alias kdl='k delete'
-alias kdlf='kdl -f'
-
-alias kg='k get'
-alias kga='kg all'
-alias kgs='kg svc'
-alias kgp='kg pods'
-alias kgn='kg nodes'
-alias kgd='kg deploy'
-alias kgc='kg componentstatuses'
-
-alias kc='k config'
-alias kcg='kc get-contexts'
-alias kcu='kc use-context'
-alias kcc='kc current-context'
-
-alias kx='kubectx'
-alias kn='kubens'
-```
 ---
 
 ### Pro Tips (things to know before exam)
